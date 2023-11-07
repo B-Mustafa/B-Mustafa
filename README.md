@@ -64,4 +64,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/B-Mustafa/B-Mustafa/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![wakatime](https://wakatime.com/badge/user/018ba529-86aa-482f-afaf-27f57387e168/project/018ba52c-2c3e-40a3-b7f2-46570055527f.svg)](https://wakatime.com/badge/user/018ba529-86aa-482f-afaf-27f57387e168/project/018ba52c-2c3e-40a3-b7f2-46570055527f)
+[![wakatime](https://wakatime.com/badge/user/018ba529-86aa-482f-afaf-27f57387e168.svg)](https://wakatime.com/@018ba529-86aa-482f-afaf-27f57387e168)
