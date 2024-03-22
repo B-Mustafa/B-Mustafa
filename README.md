@@ -68,3 +68,4 @@
 </picture>
 
 [![wakatime](https://wakatime.com/badge/user/018ba529-86aa-482f-afaf-27f57387e168.svg)](https://wakatime.com/@018ba529-86aa-482f-afaf-27f57387e168)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=B-Mustafa.B-Mustafa)
