@@ -53,9 +53,7 @@
   <a href="https://mail.google.com/mail/u/?authuser=bhikhapurmustafa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://patreon.com/_mustafa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
-  </a>
+ 
 </div>
 
 ## 💰 You can help me by Donating
