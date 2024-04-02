@@ -42,7 +42,7 @@
 
 <div align="left">
   <a href="https://linkedin.com/mustafa-bhikhapurwala-78514126b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0762C8 &logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/_mustafa_0203?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
