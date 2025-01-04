@@ -8,7 +8,7 @@
 </div>
 
 [![B-Mustafa's GitHub | Stats](https://stats.quira.sh/B-Mustafa/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=B-Mustafa)
-
+[![B-Mustafa's GitHub | Topics Over Time](https://stats.quira.sh/B-Mustafa/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=B-Mustafa)
 [![B-Mustafa's GitHub | Languages Over Time](https://stats.quira.sh/B-Mustafa/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=B-Mustafa)
 ###
 
